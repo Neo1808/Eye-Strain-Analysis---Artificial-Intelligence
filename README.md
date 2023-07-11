@@ -1,5 +1,3 @@
-# SmartInternz 
-
 Project Title - Strain Analysis Based On Eye Blinking
 
 Team Members :
